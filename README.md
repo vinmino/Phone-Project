@@ -1,2 +1,2 @@
-# Python-Projects
-This is going to hold all of my Python Projects
+# Phone-Project
+Contains the programs written to interact with a Polycom Phone API
